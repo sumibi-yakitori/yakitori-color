@@ -382,12 +382,12 @@
         "foreground": "#FF2C96"
       }
     },
-    {
-      "scope": "markup.list",
-      "settings": {
-        "foreground": "#E6DB74"
-      }
-    },
+    // {
+    //   "scope": "markup.list",
+    //   "settings": {
+    //     "foreground": "#E6DB74"
+    //   }
+    // },
     {
       "scope": "markup.bold, markup.italic",
       "settings": {
